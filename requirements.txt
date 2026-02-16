@@ -1,0 +1,8 @@
+streamlit>=1.30.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.18.0
+
+# Optional: Google Meridian (requires Python 3.11 or 3.12)
+# pip install google-meridian
+# pip install google-meridian[and-cuda]  # with GPU support
